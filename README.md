@@ -1,7 +1,7 @@
 # jelou-world
 
 1.
-2. dos
+2.
 3.
 4.
 5.
