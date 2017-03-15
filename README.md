@@ -1,6 +1,6 @@
 # jelou-world
 
-1. uno
+1.
 2.
 3.
 4.
