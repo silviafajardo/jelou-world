@@ -1,8 +1,8 @@
 # jelou-world
 
 
-1. uno
-2. dos
+1.
+2.
 3.
 4.
 5.
